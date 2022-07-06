@@ -1,7 +1,7 @@
 # poetry_cut
 古诗词分词、词频统计、词性分析，作者关系图，包括诗词数据库
 # 依赖源
-来自另一位git主的仓库数据库，https://github.com/chinese-poetry/chinese-poetry/tree/master/ci，
+来自另一位git主的仓库数据库，https://github.com/chinese-poetry/chinese-poetry/tree/master/ci 
 down下来后存储在source目录下
 由于CBDB数据库很大，有400+M。github不允许上传这么大的文件，请大家自行去[CBDB官网](http://projects.iq.harvard.edu/chinesecbdb/%E4%B8%8B%E8%BC%89cbdb%E5%96%AE%E6%A9%9F%E7%89%88)下载单机版数据库，并且以cbdb_sqlite.db为文件名存储在source目录下。
 # 依赖库
