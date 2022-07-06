@@ -1,5 +1,5 @@
 # poetry_cut
-古诗词分词、词频统计、词性分析，包括诗词数据库
+古诗词分词、词频统计、词性分析，作者关系图，包括诗词数据库
 # 依赖源
 来自另一位git主的仓库数据库，https://github.com/chinese-poetry/chinese-poetry/tree/master/ci，
 down下来后存储在source目录下
